@@ -13,9 +13,14 @@ Ementa:
 
 - **DevOps**
 
-  ![devops](https://user-images.githubusercontent.com/85380530/131145300-85f4e8bf-1b38-4733-acb0-21228512d28e.jpg)
 
-    **Devops** é um termo criado para descrever um conjunto de práticas para integração entre as equipes de desenvolvimento de softwares, operações (infraestrutura ou sysadmin) e de apoio envolvidas (como controle de qualidade) e a adoção de processos automatizados para produção rápida e segura de aplicações e serviços.
+ <img width="600px" src="https://user-images.githubusercontent.com/85380530/131145300-85f4e8bf-1b38-4733-acb0-21228512d28e.jpg" />
+</p>
+
+
+ 
+
+    Devops é um termo criado para descrever um conjunto de práticas para integração entre as equipes de desenvolvimento de softwares, operações (infraestrutura ou sysadmin) e de apoio envolvidas (como controle de qualidade) e a adoção de processos automatizados para produção rápida e segura de aplicações e serviços.
 
 - Git
 
